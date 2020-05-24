@@ -1,0 +1,20 @@
+{
+  "name": "Patrick Bateman",
+  "version": "1.0.0",
+  "description": "Discord moderation bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "installall": "npm install build-essentials && npm install discord.js && npm install opusscript && npm install ms"
+  },
+  "keywords": [],
+  "author": "Mountain Iq",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "ms": "^2.1.2",
+    "opusscript": "0.0.7",
+    "path": "^0.12.7",
+    "strftime": "^0.10.0"
+  }
+}
