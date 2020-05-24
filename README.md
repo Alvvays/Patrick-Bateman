@@ -1,4 +1,8 @@
+<div align="center">
+<img src="https://i.imgur.com/ZHPcwrN.png"></img><p>
 <a href="https://github.com/Alvvays/Patrick-Bateman/blob/master/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" /></a>
+</div>
+
 ### Introduction
 > Patrick Bateman is a Discord Bot built with discord.js & uses Command Handler.
 
